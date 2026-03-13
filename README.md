@@ -105,7 +105,4 @@ make clean
 - Kernel APIs vary by kernel version; minor compatibility updates may be required on newer kernels.
 - `firewall_module/headers/uthash.h` is a third-party dependency and keeps its original license header.
 
-## License
 
-This repository currently does not include a top-level LICENSE file.
-Add your preferred license before publishing if needed.
