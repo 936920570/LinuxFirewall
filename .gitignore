@@ -1,0 +1,24 @@
+# Build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.order
+*.symvers
+*.cmd
+
+# Kernel/module generated directories
+.tmp_versions/
+modules.order
+Module.symvers
+
+# User app binary
+myFW
+userApp/myFW
+
+# Editor/system
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
